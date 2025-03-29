@@ -26,8 +26,13 @@ This project demonstrates how to scrape tabular data from a real website using P
 📁 data/output.csv                    - Final scraped data
 ```
 
-## 📊 Sample Output
+## 📊 Output
 The notebook scrapes tabular data from a real website and presents it as a pandas DataFrame. The data is saved as a `.csv` file for further analysis.
+
+## 📸 Output
+
+![Sample Output](images/output.png)
+
 
 ## 🚀 How to Run
 1. Clone this repository
