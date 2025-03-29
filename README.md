@@ -23,7 +23,7 @@ This project demonstrates how to scrape tabular data from a real website using P
 📄 README.md                          - Project overview and instructions
 📄 requirements.txt                   - Python dependencies
 📄 .gitignore                         - Files to ignore in Git
-📁 data/output.csv                    - (Optional) Final scraped data
+📁 data/output.csv                    - Final scraped data
 ```
 
 ## 📊 Sample Output
@@ -52,6 +52,6 @@ The notebook scrapes tabular data from a real website and presents it as a panda
 - Store scraped data in a database (SQLite, PostgreSQL)
 
 ## 🧑‍💼 Author
-**Pooja Pathare**  
-MSc in Computer Science | Aspiring Data Analyst  
-[LinkedIn Profile](https://www.linkedin.com/in/your-link)
+**Shubham Bamane**  
+MS in Data Science | Aspiring Data Analyst  
+[LinkedIn Profile](www.linkedin.com/in/shubhambamane)
